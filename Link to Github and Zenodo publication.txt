@@ -1,0 +1,2 @@
+Zenodo: https://zenodo.org/record/3532088#.XcSLGehKjb0
+Github.com: https://github.com/Eserichard/Electricity_Usage_Analysis_in_the_state_of_California
